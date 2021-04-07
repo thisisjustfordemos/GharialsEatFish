@@ -1,5 +1,5 @@
-def exponents(a, b):
-	return a**2*b
+def exponents(a):
+	return a**a
 
 def sqr(a, b):
 	ans = 0
