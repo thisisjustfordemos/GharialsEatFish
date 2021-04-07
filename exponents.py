@@ -1,5 +1,6 @@
 def exponents(a):
-	return a*a*3
+	return a**10
+
 def sqr(a, b):
 	ans = 0
 	while b < 0:
